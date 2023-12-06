@@ -12,9 +12,9 @@ redirect_from:
 
 Chinese cannot be printed? Why? Testing....
 
-I graduated form [the Chinese University of Hong Kong](https://..........) and supervised by Professor [CHAN KinWai](https://............). My thesis topic is Missing Not at Random (MNAR) and parameter estimation.
+I graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/) and supervised by Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/). My thesis topic is Missing Not at Random (MNAR) and parameter estimation.
 
-Now I work as a mathematics teacher in HongKong Minxin School (Guangzhou Nansha) [https://.....], teaching DSE math for secondary school students.
+Now I work as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE math for secondary school students.
 
 You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
 
