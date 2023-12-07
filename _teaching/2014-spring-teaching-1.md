@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Basic concepts of Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The Chinese University of Hong Kong, Department of Statistics"
+date: 2018-08-01
+location: "HongKong, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
