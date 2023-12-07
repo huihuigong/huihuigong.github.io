@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-这是第一段，在很困的时候写下，闲来无事开始捣鼓个人主页，乐。
+这是第一段，在很困的时候写下，闲来无事开始捣鼓个人主页，乐。—— 2023年12月5日
+
+这是第二段，发现academic个人主页的内容不太适合自由发挥，所以打算一个academic主页（反正我也不学术），然后再慢慢搭建我自己的个人主页，把一些碎碎念、记录、图片巴拉巴拉放上去，类似博客？（要不开个博客得了，emmmm暂时未定，再说，啊最近真是打不起精神，我大概不仅从体型上是熊，从体质上也有了熊的冬眠特质吧……） ——2023年12月7日
 
 Chinese cannot be printed? Why? Testing....
 
+About me
+=====
 I graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/) and supervised by Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/). My thesis topic is Missing Not at Random (MNAR) and parameter estimation.
 
 Now I work as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE math for secondary school students.
