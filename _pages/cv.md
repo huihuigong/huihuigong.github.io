@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, Sun Yat-sen University, 2018
+# * M.S. in Statistics, GitHub University, 2014
+* Ph.D in Statistics, The Chinese University of Hong Kong, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023: Mathematics teacher
+  * Minxin Hong Kong School (Guangzhou Nansha)
+  * Courses included: Fundamental Algebra, Geometry and Statistics; Basic Mathematics including basic functions, solving inequalities/equations,
+  # * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018 to Fall 2022: Teaching Assistant
+  * The Chinese University of Hong Kong
+  * Duties included: Tutorials teaching, assignments marking
+  * Courses included: Basic concepts of Statistics
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* IELTS 6.5
+* 全国中小学数学（高中）教师资格证（2023年）
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* 普通话二甲
 
 Publications
 ======
