@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Applied Mathematics, Sun Yat-sen University, 2018
-# * M.S. in Statistics, GitHub University, 2014
 * Ph.D in Statistics, The Chinese University of Hong Kong, 2022 (expected)
 
 Work experience
@@ -30,6 +29,7 @@ Work experience
 Skills
 ======
 * IELTS 6.5
+* R, Latex
 * 全国中小学数学（高中）教师资格证（2023年）
   * Sub-skill 2.1
   * Sub-skill 2.2
