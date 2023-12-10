@@ -1,7 +1,7 @@
 ---
 title: "Foundation of Financial and Managerial Statistics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-2
 venue: "The Chinese University of Hong Kong, Department of Statistics"
 date: 2022-02-01
