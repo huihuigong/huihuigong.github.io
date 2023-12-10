@@ -9,13 +9,13 @@ location: "HongKong, China"
 ---
 
 This course introduces basic statistical methods with applications in behavioral and experimental sciences. 
+
+2020 Fall Term
+======
 Topics include:
   * descriptive statistics, the concepts of population and sample, random sampling,
   * basic distributions, point and confidence interval estimations, hypothesis testing and inferences
   * relation to correlation, contingency table and regression
-
-2020 Fall Term
-======
 
 2019 Fall Term
 ======
