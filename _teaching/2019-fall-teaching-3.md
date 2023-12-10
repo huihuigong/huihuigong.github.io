@@ -8,16 +8,14 @@ date: 2019-9-01
 location: "HongKong, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces basic statistical methods with applications in behavioral and experimental sciences. 
+Topics include:
+  * descriptive statistics, the concepts of population and sample, random sampling,
+  * basic distributions, point and confidence interval estimations, hypothesis testing and inferences
+  * relation to correlation, contingency table and regression
 
-Heading 1
+2020 Fall Term
 ======
-这是啥
 
-Heading 2
+2019 Fall Term
 ======
-又是啥
-
-Heading 3
-======
-在哪里
