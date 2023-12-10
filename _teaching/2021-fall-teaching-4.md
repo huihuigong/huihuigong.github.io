@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2021-fall-teaching-4
 venue: "The Chinese University of Hong Kong, Department of Statistics"
-date: 2018-09-01
+date: 2021-09-01
 location: "HongKong, China"
 ---
 
