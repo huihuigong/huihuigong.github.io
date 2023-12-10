@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "这是一个抹茶牛乳冰激凌的美味标题"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-这是第一段，在很困的时候写下，闲来无事开始捣鼓个人主页，乐。—— 2023年12月5日
-
-这是第二段，发现academic个人主页的内容不太适合自由发挥，所以打算一个academic主页（反正我也不学术），然后再慢慢搭建我自己的个人主页，把一些碎碎念、记录、图片巴拉巴拉放上去，类似博客？（要不开个博客得了，emmmm暂时未定，再说，啊最近真是打不起精神，我大概不仅从体型上是熊，从体质上也有了熊的冬眠特质吧……） ——2023年12月7日
-
-Chinese cannot be printed? Why? Testing....
-
-About me
-=====
 I graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/) and supervised by Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/). My thesis topic is Missing Not at Random (MNAR) and parameter estimation.
 
 Now I work as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE math for secondary school students.
 
 You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
 
-[Email](gongh@mail2.sysu.edu.cn)/[Github](https://github........)
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+[Email](gongh9@mail2.sysu.edu.cn)/[Github](https://github.com/huihuigong)
 
 A data-driven personal website
 ======
