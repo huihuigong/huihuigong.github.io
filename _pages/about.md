@@ -10,11 +10,11 @@ redirect_from:
 
 Majored in Statistics and mathematics; have a sweet tooth; animal Lover.
 
-When the ripeness of autumn fills the air in 2022,
+When the ripeness of autumn filled the air in 2022,
 I received the Doctor of Philosophy in Statistics and graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) of [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), 
-which brings the promise of new start.
+which brought the promise of new start.
 
-All gratitude to Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/), who supervised my thesis about Missing Not at Random (MNAR) and parameter estimation.
+All gratitude to Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/), who supervised my Phd thesis about Missing Not at Random (MNAR) and parameter estimation.
 
 You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
 
