@@ -10,21 +10,21 @@ redirect_from:
 
 Majored in Statistics and mathematics; have a sweet tooth; animal Lover.
 
-What I am doing now
-======
-I am working as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE (Compulsory, M1 and M2) math for secondary school students, and IB in the future.
+When the ripeness of autumn fills the air in 2022,
+I received the Doctor of Philosophy in Statistics and graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) of [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), 
+which brings the promise of new start.
 
-Attracted by the philosophy: [roots in Hong Kong, a heart for China and a global outlook](https://www.minxinnansha.org/en/archives/729) and curious about the school founded by [Mr LEUNG Chun-ying](http://en.cppcc.gov.cn/2023-03/11/c_868231.htm), Vice Chairman, NCCPPCC, I chose Minxin to be the place of my first job.
-
-
-Education background
-======
-In 2022, I graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/) and received the Doctor of Philosophy in Statistics in October. 
-My supervisor is Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/). My thesis topic is Missing Not at Random (MNAR) and parameter estimation.
+All gratitude to Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/), who supervised my thesis about Missing Not at Random (MNAR) and parameter estimation.
 
 You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
 
 [Email](gongh9@mail2.sysu.edu.cn)/[Github](https://github.com/huihuigong)
+
+What I am doing now
+------
+I am working as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE (Compulsory, M1 and M2) math for secondary school students, and IB in the future.
+
+Attracted by the philosophy: [roots in Hong Kong, a heart for China and a global outlook](https://www.minxinnansha.org/en/archives/729) and curious about the school founded by [Mr LEUNG Chun-ying](http://en.cppcc.gov.cn/2023-03/11/c_868231.htm), Vice Chairman, NCCPPCC, I chose Minxin to be the place of my first job.
 
 
 A data-driven personal website
