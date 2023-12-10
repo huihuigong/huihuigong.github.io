@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am working as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE math for secondary school students. 
-I am drwan to Minxin's philosophy: [roots in Hong Kong, a heart for China and a global outlook](https://www.minxinnansha.org/en/archives/729) and curious about the school which is founded by [Mr LEUNG Chun-ying](http://en.cppcc.gov.cn/2023-03/11/c_868231.htm), Vice Chairman, The National Committee of The Chinese People’s Political Consultative Conference.
+I am drwan to Minxin's philosophy: [roots in Hong Kong, a heart for China and a global outlook](https://www.minxinnansha.org/en/archives/729) and curious about the school which is founded by [Mr LEUNG Chun-ying](http://en.cppcc.gov.cn/2023-03/11/c_868231.htm), Vice Chairman, NCCPPCC.
 
 In 2022, I graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) in [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/) and received the Doctor of Philosophy in Statistics in October. 
 My supervisor is Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/). My thesis topic is Missing Not at Random (MNAR) and parameter estimation.
