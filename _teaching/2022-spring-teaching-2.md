@@ -8,13 +8,19 @@ date: 2022-02-01
 location: "HongKong, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course presents an overview of statistical techniques that lay the foundation for effective applications of statistics in the context of business administration. 
+  * Part I covers financial management techniques including investment appraisal, investment management;
+  * Part II covers marketing management techniques including decision analysis under uncertainty, project time and cost management. 
 
-Heading 1
+
+2018-19: Fall Term
 ======
 
-Heading 2
+2019-20: Fall Term
 ======
 
-Heading 3
+2020-21: Fall Term
+======
+
+2021-22: Fall Term
 ======
