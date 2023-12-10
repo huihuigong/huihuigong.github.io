@@ -8,16 +8,14 @@ date: 2018-08-01
 location: "HongKong, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+This is the outline of "Basic Concepts in Statistics and Probability".
+1. Random experiments and Sample Space
+2. Probability
+3. Methods of enumeration (Counting)
+4. Conditional probability
+5. Independent events
+6. Bayes’s theorem
+   
+2018 Fall Term
 ======
-这是啥
 
-Heading 2
-======
-又是啥
-
-Heading 3
-======
-在哪里
