@@ -8,6 +8,9 @@ date: 2018-08-01
 location: "HongKong, China"
 ---
 
+
+2018 Fall Term
+======
 This is the outline of "Basic Concepts in Statistics and Probability".
 1. Random experiments and Sample Space
 2. Probability
@@ -15,7 +18,3 @@ This is the outline of "Basic Concepts in Statistics and Probability".
 4. Conditional probability
 5. Independent events
 6. Bayes’s theorem
-   
-2018 Fall Term
-======
-
