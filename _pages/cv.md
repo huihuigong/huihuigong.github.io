@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* B.S. in Mathematics and Applied Mathematics, Sun Yat-Sen University, 2018
 * Ph.D in Statistics, The Chinese University of Hong Kong, 2022
+* B.S. in Mathematics and Applied Mathematics, Sun Yat-Sen University, 2018
 
 Work experience
 ======
