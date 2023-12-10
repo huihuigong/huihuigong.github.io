@@ -18,16 +18,12 @@ Work experience
   * Minxin Hong Kong School (Guangzhou Nansha)
   * Course topics: number system, sequences, functions and graphs, geometry, statistics, linear programming, etc.
 
-Teaching
+Teaching Assistant (2018-2022 in CUHK)
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-* 2018 to 2022: Teaching Assistant
-  * The Chinese University of Hong Kong
-  * Duties included: Tutorials teaching, assignments marking
-  * Courses: Foundation of Financial and Managerial Statistics, Introduction to Statistics, Basic Concepts in Statistics and Probability, Studies on Selected Topics.
   
 Skills
 ======
