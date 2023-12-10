@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-spring-teaching-2
 venue: "The Chinese University of Hong Kong, Department of Statistics"
-date: 2019-02-01
+date: 2019-02-01 to 2022-02-01
 location: "HongKong, China"
 ---
 
