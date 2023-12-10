@@ -11,25 +11,20 @@ redirect_from:
 Majored in Statistics and mathematics; have a sweet tooth; animal Lover.
 
 ### "Falling leaves tell a story" ---<cite>Elden Ring</cite>
-
 When the ripeness of autumn filled the air in 2022,
 I received the Doctor of Philosophy in Statistics and graduated form the [Department of Statistics](http://www.sta.cuhk.edu.hk/) of [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), 
 which brought the promise of new start.
-
-All gratitude to Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/), who supervised my Phd thesis about Missing Not at Random (MNAR) and parameter estimation.
-
-
->"There little thoughts are the rustle of leaves" ---<cite>Tagore</cite>
-
-aljdklaaaaaaaaaaaaaaaaaaaaaaaaaaa;jeoihnaikbjfdiajbdjbakdfbkjbd;k
-kjdnand;akljhnfdjhl;kadfj
-skldkdlajf;lkadj;f
-
-"Falling leaves tell a story" ---<cite>Elden Ring</cite>
-You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
+All gratitude is given to Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kwchan/), who supervised my Phd thesis about Missing Not at Random (MNAR) and parameter estimation.
 
 
 ### "There little thoughts are the rustle of leaves" ---<cite>Tagore</cite>
+The Deaparment of Mathematics in [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) nurtured me to be a person with solid foundations of mathematical system including algebra, geometry, partial differential equations, numerical analysis, mathematical statistics and number theory etc..
+I really like the lush trees and chirping bird inside the campus. 
+My most footloose and fancy-free time is to sit in the library and feel the wind blowing through.
+
+### More
+You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
+
 [Email](gongh9@mail2.sysu.edu.cn)/[Github](https://github.com/huihuigong)
 
 
