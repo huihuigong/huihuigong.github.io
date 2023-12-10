@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-3
 venue: "The Chinese University of Hong Kong, Department of Statistics"
-date: 2018-09-01 to 2019--9-01
+date: 2019--9-01
 location: "HongKong, China"
 ---
 
