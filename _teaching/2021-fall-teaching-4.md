@@ -8,16 +8,13 @@ date: 2021-09-01
 location: "HongKong, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The learning schedule of course:
+ * Weeks 1-3: Introduction and Background of Vector ARMA
+ * Weeks 4-6: Canonical Structure of Vector ARMA
+ * Weeks 7-9: Least Squares and Maximum Likelihood Estimation of Vector ARMA
+ * Weeks 10-11: Reduced Rank and Co-Integration
+ * Weeks 12-13: Factor Models and Related Topics
 
-Heading 1
+2021 Fall Term
 ======
-这是啥
-
-Heading 2
-======
-又是啥
-
-Heading 3
-======
-在哪里
+Textbook: Reinsel, G.C. (1997). Elements of Multivariate Time Series, 2nd ed. Springer, New York.
