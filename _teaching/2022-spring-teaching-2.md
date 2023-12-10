@@ -13,14 +13,14 @@ The course presents an overview of statistical techniques that lay the foundatio
   * Part II covers marketing management techniques including decision analysis under uncertainty, project time and cost management. 
 
 
-2021-22: Fall Term
+2022: Spring Term
 ======
 
-2020-21: Fall Term
+2021: Spring Term
 ======
 
-2019-20: Fall Term
+2020: Spring Term
 ======
 
-2018-19: Fall Term
+2019 Spring Term
 ======
