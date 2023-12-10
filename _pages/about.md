@@ -27,7 +27,6 @@ My most footloose and fancy-free time is to sit in the library and feel the wind
 
 ### More
 You can find my CV here: [Iris's Curriculum Vitae](.....pdf).
-Also my [Email](gongh9@mail2.sysu.edu.cn)/[Github](https://github.com/huihuigong)
 
 
 My work now
