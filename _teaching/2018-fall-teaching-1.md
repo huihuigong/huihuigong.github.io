@@ -8,6 +8,7 @@ date: 2018-08-01
 location: "HongKong, China"
 ---
 
+Basic Concepts contain random experiment, probability, independence and bayes's theorem.
 
 2018 Fall Term
 ======
