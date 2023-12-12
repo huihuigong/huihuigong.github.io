@@ -1,5 +1,5 @@
-Compulsory Mathematics Part
-
+Learning contents of Compulsory Part
+-------
   * Unit 1 Quadratic equations in one unknown 
   * Unit 2 Functions and graphs 
   * Unit 3 Exponential and logarithmic functions 
