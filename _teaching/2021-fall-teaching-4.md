@@ -11,7 +11,7 @@ location: "HongKong, China"
 Further topics about Vector ARMA, Reduced Rank, Co-Integration and Factor Models.
 
 2021 Fall Term
-======
+------
 The learning schedule of course:
  * Weeks 1-3: Introduction and Background of Vector ARMA
  * Weeks 4-6: Canonical Structure of Vector ARMA
