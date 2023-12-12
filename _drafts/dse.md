@@ -23,9 +23,10 @@ Compulsory Mathematics Part
 
 
 Learning Contents of Module 1 (Calculus and Statistics)
+------
  * Calculus:
-  * Differentiation and Its Applications
-  * Integration and Its Applications
+   * Differentiation and Its Applications
+   * Integration and Its Applications
     
 * Statistics Area
   * Further Probability
@@ -36,6 +37,7 @@ Learning Contents of Module 1 (Calculus and Statistics)
 
  
 Learning Contents of Module 2 (Algebra and Calculus)
+------
  * Calculus:
    * Limits and Differentiation
    * Integration
