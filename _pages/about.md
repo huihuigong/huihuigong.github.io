@@ -19,7 +19,7 @@ All gratitude is given to Professor [CHAN KinWai](https://www.sta.cuhk.edu.hk/kw
 
 
 ### "There little thoughts are the rustle of leaves" ---<cite>Tagore</cite>
-The Deaparment of Mathematics in [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) nurtured me to be a person with solid foundations of mathematical system including algebra, geometry, partial differential equations, numerical analysis, mathematical statistics and number theory etc..
+The Deaparment of Mathematics in [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) nurtured me to be a person with solid foundations of mathematical system including algebra, geometry, partial differential equations, numerical analysis, mathematical statistics and number theory etc..
 
 I really like the lush trees and chirping bird inside the campus. 
 My most footloose and fancy-free time is to sit in the SYSU library and feel the wind blowing through.
