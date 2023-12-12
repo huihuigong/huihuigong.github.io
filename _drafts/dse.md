@@ -36,12 +36,12 @@ Learning Contents of Module 1 (Calculus and Statistics)
  
 Learning Contents of Module 2 (Algebra and Calculus)
  * Calculus:
-  * Limits and Differentiation
-  * Integration
+   * Limits and Differentiation
+   * Integration
 
  * Algebra:
-  * Matrices and Systems of Linear Equations
-  * Vectors
+   * Matrices and Systems of Linear Equations
+   * Vectors
 
 
 
