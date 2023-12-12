@@ -20,3 +20,32 @@ Compulsory Mathematics Part
   * Unit 18 Uses and abuses of statistics 
   * Unit 19 Further applications 
   * Unit 20 Inquiry and investigation 
+
+
+Learning Contents of Module 1 (Calculus and Statistics)
+ * Calculus:
+  * Differentiation and Its Applications
+  * Integration and Its Applications
+* Statistics Area
+  * Further Probability
+  * Binomial, Geometric and Poisson Distributions and Their Applications
+  * Normal Distribution and Its Applications
+  * Point and Interval Estimation
+
+
+ 
+Learning Contents of Module 2 (Algebra and Calculus)
+ * Calculus:
+  * Limits and Differentiation
+  * Integration
+
+ * Algebra:
+  * Matrices and Systems of Linear Equations
+  * Vectors
+
+
+
+
+
+
+ 
