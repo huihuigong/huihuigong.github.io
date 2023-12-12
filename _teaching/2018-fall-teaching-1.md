@@ -11,7 +11,7 @@ location: "HongKong, China"
 Basic Concepts contain random experiment, probability, independence and bayes's theorem.
 
 2018 Fall Term
-======
+------
 This is the outline of "Basic Concepts in Statistics and Probability".
 1. Random experiments and Sample Space
 2. Probability
