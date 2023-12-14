@@ -14,6 +14,10 @@ redirect_from:
 
 Work experience
 ======
+  <ul>{% for post in site.work %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 * 2023 to Now: Mathematics teacher
   * Minxin Hong Kong School (Guangzhou Nansha)
   * Course topics: number system, sequences, functions and graphs, geometry, statistics, linear programming, etc.
