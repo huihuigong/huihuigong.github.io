@@ -11,17 +11,10 @@ location: "HongKong, China"
 The course presents an overview of statistical techniques that lay the foundation for effective applications of statistics in the context of business administration. 
 
 
-2022: Spring Term
+2019-22: Spring Terms
 ------
 Contents of this course contain
   * Part I covers financial management techniques including investment appraisal, investment management;
   * Part II covers marketing management techniques including decision analysis under uncertainty, project time and cost management. 
 
-2021: Spring Term
------
-
-2020: Spring Term
-----
-
-2019 Spring Term
-----
+files are [here](http://huihuigong.github.io/files/paper2.pdf)
