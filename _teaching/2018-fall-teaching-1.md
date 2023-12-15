@@ -19,3 +19,5 @@ This is the outline of "Basic Concepts in Statistics and Probability".
 4. Conditional probability
 5. Independent events
 6. Bayes’s theorem
+
+files are [here](http://huihuigong.github.io/files/paper2.pdf)
