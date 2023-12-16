@@ -31,7 +31,7 @@ You can find my CV here: [Iris's Curriculum Vitae](http://huihuigong.github.io/f
 
 My work now
 ======
-I am working as a mathematics teacher in [Minxin Hong Kong School（Guangzhou Nansha）](https://www.minxinnansha.org/en/), teaching DSE (Compulsory, M1 and M2) math for secondary school students, and IB in the future.
+I am working as a mathematics teacher in [Minxin Hong Kong School (Guangzhou Nansha)](https://www.minxinnansha.org/en/), teaching DSE (Compulsory, M1 and M2) math for secondary school students, and IB in the future.
 
 Attracted by the philosophy: [roots in Hong Kong, a heart for China and a global outlook](https://www.minxinnansha.org/en/archives/729), and curious about the school founded by [Mr LEUNG Chun-ying](http://en.cppcc.gov.cn/2023-03/11/c_868231.htm), Vice Chairman, NCCPPCC, I chose Minxin to be the stage of my first job.
 
