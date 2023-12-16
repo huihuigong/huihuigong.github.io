@@ -26,7 +26,7 @@ My most footloose and fancy-free time is to sit in the SYSU library and feel the
 
 
 ### More
-You can find my CV here: [Iris's Curriculum Vitae](http://huihuigong.github.io/files/paper1.pdf).
+You can find my CV here: [Iris's Curriculum Vitae](http://huihuigong.github.io/files/CV_2024.pdf).
 
 
 My work now
