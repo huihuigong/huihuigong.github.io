@@ -17,4 +17,14 @@ Contents of this course contain
   * Part I covers financial management techniques including investment appraisal, investment management;
   * Part II covers marketing management techniques including decision analysis under uncertainty, project time and cost management. 
 
-files are [here](http://huihuigong.github.io/files/paper2.pdf)
+Sharing materials:
+  * [Tutorial 1 (Investment Appraisal: Basic Methods)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_1.pdf)
+  * [Tutorial 2 (Investment Appraisal: Basic Methods)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_2.pdf)
+  * [Tutorial 3 (Principle Component Analysis and coding)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_3.pdf)
+  * [Tutorial 4 (Yield to maturity (YTM)) and Duration](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_4.pdf)
+  * [Tutorial 5 (Duration Hedging and Nelson Siegel Model)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_5.pdf)
+  * [Tutorial 6 (Index numbers and their uses)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_6.pdf)
+  * [Tutorial 7 (The Value of Information)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_7.pdf)
+  * [Tutorial 8 (Critical Path Method (CPM))](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_8.pdf)
+  * [Tutorial 9 (Program Evaluation and Review Technique (PERT)](http://huihuigong.github.io/files/CU_stat_3001_tutorials/Tutorial_9.pdf)
+
