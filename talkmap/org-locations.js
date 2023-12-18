@@ -10,6 +10,11 @@ var addressPoints = [
     113.298349
   ],
   [
+    "HongKong, China",
+    22.419342, 
+    114.204707
+  ],
+  [
     "Nansha, Guangdong, China",
     22.866875, 
     113.489319
